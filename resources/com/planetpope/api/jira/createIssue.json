@@ -8,6 +8,7 @@
        \"description\": \"$description\",
        \"issuetype\": {
           \"name\": \"$issueTypeName\"
-       }
+       },
+       \"version\": \"random\",
    }
 }
