@@ -12,6 +12,6 @@
        \"labels\":\"$labels\"
        \"versions\": {
           \"name\": \"$versions\"
-       },
+       }
    }
 }
