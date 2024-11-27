@@ -9,7 +9,7 @@
        \"issuetype\": {
           \"name\": \"$issueTypeName\"
        },
-       \"labels\":\"$labels\"
+       \"labels\":\"$labels\",
        \"versions\": {
           \"name\": \"$versions\"
        }
