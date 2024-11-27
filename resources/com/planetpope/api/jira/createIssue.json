@@ -10,8 +10,6 @@
           \"name\": \"$issueTypeName\"
        },
        \"labels\":\"$labels\",
-       \"versions\": {
-          \"name\": \"$versions\"
-       }
+       \"versions\": \"$versions\"
    }
 }
